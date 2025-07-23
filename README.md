@@ -1,4 +1,4 @@
-# Module_04_Project_JavaRush_Redis_Mysql_performance_comparison
+# Redis_Mysql_performance_comparison
 This is a Maven project using technologies such as MySQL, Hibernate, Redis, Docker. The speed of retrieving the same data from MySQL and Redis is compared. We observe an improvement in response performance for a 'sluggish frequent' database query.
 
 **What was done?**
